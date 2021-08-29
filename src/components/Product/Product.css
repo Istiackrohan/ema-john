@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    padding-left: 10px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+.product-details{
+    margin-left: 10px;
+}
+.add-button{
+    background-color: goldenrod;
+    width: 200px;
+    height: 25px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+}
